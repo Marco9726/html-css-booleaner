@@ -11,9 +11,33 @@
     background-size: 400px;
 }
 
-
 #logo{
     height: 50px;
     margin-top: 40px;
     margin-left: 10px;
+}
+
+.textgrey{
+    color: grey;
+}
+
+#skyblue{
+    color: #89CFFD;
+}
+
+.date{
+    font-size: 12px;
+}
+
+.distance{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.smalltext{
+    font-size: 10px;
+}
+
+#yellow{
+    background-color: yellow;
 }
