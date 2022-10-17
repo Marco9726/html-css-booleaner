@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body{
+    width: 70%;
+    padding: 5px;
+}
+
 #background{
     height: 100px;
     background-image: url('../img/pattern.png');
@@ -31,14 +36,14 @@
 
 .distance{
     margin-top: 20px;
-    margin-left: 5px;
+    
 }
 
 .smalltext{
     font-size: 10px;
 }
 
-#yellow{
+.yellow{
     background-color: yellow;
 }
 
@@ -58,4 +63,22 @@ thead{
 
 .backgroundblue{
     background-color:aqua;
+}
+
+.square{
+    margin-top: 10px;
+    width: 200px;
+    height: 150px;
+    background-color: red;
+    color: white;
+    padding: 5px;
+    background-size: cover;
+}
+
+.foto1{
+    background-image: url('../img/monitor.jpg');
+}
+
+.foto2{
+    background-image: url('../img/graph.jpg');
 }
