@@ -11,10 +11,6 @@
 }
 
 
-main, footer{
-    margin-left: 5px;
-}
-
 #background{
     height: 100px;
     background-image: url('../img/pattern.png');
@@ -22,17 +18,22 @@ main, footer{
     background-size: 400px;
 }
 
+#logocontainer{
+    width: 70%;
+    margin: auto;
+}
+
 #logo{
     height: 50px;
     margin-top: 40px;
-    margin-left: 10px;
+    
 }
 
 .textgrey{
     color: grey;
 }
 
-.skyblue{
+#skyblue{
     color: #89CFFD;
 }
 
@@ -79,7 +80,6 @@ thead{
     margin-top: 10px;
     width: 200px;
     height: 150px;
-    background-color: red;
     color: white;
     padding: 5px;
     background-size: cover;
