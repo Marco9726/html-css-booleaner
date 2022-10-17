@@ -21,7 +21,7 @@
     color: grey;
 }
 
-#skyblue{
+.skyblue{
     color: #89CFFD;
 }
 
@@ -40,4 +40,22 @@
 
 #yellow{
     background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
+    
+}
+
+td{
+    width: 10%;
+}
+
+thead{
+    color: white;
+    background-color: #2192FF;
+}
+
+.backgroundblue{
+    background-color:aqua;
 }
