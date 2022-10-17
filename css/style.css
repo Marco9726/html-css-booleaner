@@ -5,9 +5,11 @@
 }
 
 
-body{
+#container{
     width: 70%;
+    margin: auto;
 }
+
 
 main, footer{
     margin-left: 5px;
